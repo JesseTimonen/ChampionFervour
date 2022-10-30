@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<Plugin> 
+    <Information>
+    <Name>ChampionFervour</Name>
+        <Author>Henna</Author>
+        <Version>1.1.1</Version>
+        <Image>ChampionFervour/Images/icon.tga</Image>
+<Description>
+DESCRIPTION
+¯¯¯¯¯¯¯¯¯¯¯
+This plugin displays champion's fervour in a custom UI element.
+</Description>
+    </Information>
+    <Package>ChampionFervour.Compiler</Package>
+    <Configuration Apartment = "ChampionFervour" />
+</Plugin>
